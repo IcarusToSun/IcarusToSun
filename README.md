@@ -44,7 +44,7 @@
 - 블록체인 난수 생성 및 관련 MEV 공격에 대해 이해하고 있습니다.
 
 ### Blockchain Scanner
-- 온체인 데이터 수집 및 분석을 위한 스캐너 개발 경험이 있습니다.
+- 온체인 이벤트 스캐너 개발 경험이 있습니다.
 - 레이어 1, 레이어 2의 블록 생성 매커니즘, 안정블록 결정 방법, 리오그 발생 매커니즘을 이해하고 있습니다.
 - 실시간 온체인 데이터 수집을 위한 블록체인 웹소켓 연동 및 생명주기에 대해 이해하고 있습니다.
 - 웹소켓 연결 끊김 및 구독 해제에 따른 재연결, 재구독, 백필을 구현한 경험이 있습니다.
@@ -52,7 +52,7 @@
 - 가스비 대납 기능을 하는 위임대납(ERC-2771) 서버 구축 경험이 있습니다.
 
 ### DApp Frontend
-- Web3 라이브러리(Wagmi, Ether.js)를 활용하여 지갑 연결을 구현한 경험이 있습니다.
+- Web3 라이브러리(Wagmi, Ethers.js)를 활용하여 지갑 연결을 구현한 경험이 있습니다.
 - ABI을 통한 스마트 컨트랙트 연동에 대해 이해하고 있습니다.
 
 ### Program Architecture (SVM)
@@ -87,10 +87,10 @@
 
 ## Skills
 - **Contract** : [EVM] Solidity, Hardhat, [SVM] Rust, Anchor  
-- **Scanner**  : Node.js, Express.js, Ether.js
+- **Scanner**  : Node.js, Express.js, Ethers.js, TypeScript
 - **Backend**  : Java, Spring Boot  
 - **Database** : MongoDB, MySQL  
-- **Frontend** : React, Vue, JSP  
+- **Frontend** : React, Vue.js, JSP
 
 ---
 
