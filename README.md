@@ -87,7 +87,7 @@
 
 ## Skills
 - **Contract** : [EVM] Solidity, Hardhat, [SVM] Rust, Anchor  
-- **Scanner**  : Node.js, Express.js, Ethers.js, TypeScript
+- **Scanner**  : Node.js, Express.js, TypeScript, Ethers.js
 - **Backend**  : Java, Spring Boot  
 - **Database** : MongoDB, MySQL  
 - **Frontend** : React, Vue.js, JSP
