@@ -15,7 +15,7 @@
 - Understanding of event design and gas optimization strategies.
 - Familiar with on-chain randomness generation and related MEV attack.
 
-### Blockchain Scanner
+### On-Chain Event Scanner
 - Developed on-chain data scanners for real-time collection and analysis.
 - Understanding of Layer 1 & Layer 2 block production mechanisms, finality models, and reorganization behavior.
 - Implemented WebScoket integrations for live on-chain event streaming and lifecylce management.
@@ -43,7 +43,7 @@
 - 이벤트의 용도와 가스비 최적화에 대해 이해하고 있습니다.
 - 블록체인 난수 생성 및 관련 MEV 공격에 대해 이해하고 있습니다.
 
-### Blockchain Scanner
+### On-Chain Event Scanner
 - 온체인 이벤트 스캐너 개발 경험이 있습니다.
 - 레이어 1, 레이어 2의 블록 생성 매커니즘, 안정블록 결정 방법, 리오그 발생 매커니즘을 이해하고 있습니다.
 - 실시간 온체인 데이터 수집을 위한 블록체인 웹소켓 연동 및 생명주기에 대해 이해하고 있습니다.
