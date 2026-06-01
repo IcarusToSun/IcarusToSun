@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Jay (윤정석) · IcarusToSun
+# 👋 윤정석 (Jay) · IcarusToSun
 
 <h3>Smart Contract & Blockchain Indexer/Backend Engineer</h3>
 
