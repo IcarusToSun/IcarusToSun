@@ -6,7 +6,6 @@
 
 **2년 차 · 누적 트랜잭션 8.2M+ · UAW 65K+ · Soneium 생태계 최상위권 프로젝트 개발**
 
-[![GitHub](https://img.shields.io/badge/GitHub-IcarusToSun-181717?style=flat&logo=github)](https://github.com/IcarusToSun)
 [![X](https://img.shields.io/badge/X-@cosmosjeongseok-181717?style=flat&logo=x)](https://x.com/cosmosjeongseok)
 [![Email](https://img.shields.io/badge/Email-cosmosjeongseok@gmail.com-181717?style=flat&logo=gmail&logoColor=white)](mailto:cosmosjeongseok@gmail.com)
 
@@ -65,11 +64,3 @@
 - **Web2**: Java, Spring Boot, MySQL / JavaScript, Vue.js, Vite, Pinia
 - **협업 Tool**: Jira, Slack, Git
 - **AI Tool**: Claude Code, Antigravity, Cursor, Gemini, ChatGPT
-
----
-
-## 📫 Contact
-
-- **Email**: [cosmosjeongseok@gmail.com](mailto:cosmosjeongseok@gmail.com)
-- **GitHub**: [github.com/IcarusToSun](https://github.com/IcarusToSun)
-- **X**: [@cosmosjeongseok](https://x.com/cosmosjeongseok)
