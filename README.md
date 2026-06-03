@@ -6,8 +6,8 @@
 
 **2년 차 · 누적 트랜잭션 8.2M+ · UAW 65K+ · Soneium 생태계 최상위권 프로젝트 개발**
 
-[![X](https://img.shields.io/badge/X-@cosmosjeongseok-181717?style=flat&logo=x)](https://x.com/cosmosjeongseok)
 [![Email](https://img.shields.io/badge/Email-cosmosjeongseok@gmail.com-181717?style=flat&logo=gmail&logoColor=white)](mailto:cosmosjeongseok@gmail.com)
+[![X](https://img.shields.io/badge/X-@cosmosjeongseok-181717?style=flat&logo=x)](https://x.com/cosmosjeongseok)
 
 </div>
 
