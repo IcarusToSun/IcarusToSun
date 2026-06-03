@@ -13,7 +13,7 @@
 
 ---
 
-## 🧩 핵심 역량 요약
+## 🧩 Portfolio
 
 ### 📜 Smart Contract
 - Commit-Reveal 기반 온체인 VRF 직접 설계·구현
